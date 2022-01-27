@@ -1,0 +1,252 @@
+$folder="X:\LCC";             # Directory to place the new folders in.
+$root0 = "A_General_Works";
+$root1 = "B_Philosophy_Psychology_Religion";
+$root2 = "C_Auxiliary_Sciences_of_History";
+$root3 = "D_World_History_And_History_of_Europe";
+$root4 = "E_History_Of_Americas";
+$root5 = "F_History_Of_The_Americas";
+$root6 = "G_Geography_Anthropology_And_Recreation";
+$root7 = "H_Social_Sciences";
+$root8 = "J_Political_Science";
+$root9 = "K_Law";
+$root10 = "L_Education";
+$root11 = "M_Music";
+$root12 = "N_Fine_Arts";
+$root13 = "P_Language_And_Literature";
+$root14 = "Q_Science";
+$root15 = "R_Medicine";
+$root16 = "S_Agriculture";
+$root17 = "T_Technology";
+$root18 = "U_Military_ScienceLaw";
+$root19 = "V_Naval_Science";
+$root20 = "Z_Bibliography_Library_Science_And_General_Information_Resources";
+
+
+new-item -type directory -path $folder\$root0\AC_Collections_Series_Collected_works
+new-item -type directory -path $folder\$root0\AE_Encyclopedias
+new-item -type directory -path $folder\$root0\AG_Dictionaries_and_other_general_reference_works
+new-item -type directory -path $folder\$root0\AI_Indexes
+new-item -type directory -path $folder\$root0\AM_Museums_Collectors_and_collecting
+new-item -type directory -path $folder\$root0\AN_Newspapers
+new-item -type directory -path $folder\$root0\AP_Periodicals
+new-item -type directory -path $folder\$root0\AS_Academies_and_learned_societies
+new-item -type directory -path $folder\$root0\AY_Yearbooks_Almanacs_Directories
+new-item -type directory -path $folder\$root0\AZ_History_of_scholarship_and_learning_The_humanities
+new-item -type directory -path $folder\$root1\B_Philosophy_General
+new-item -type directory -path $folder\$root1\BC_Logic
+new-item -type directory -path $folder\$root1\BD_Speculative_philosophy
+new-item -type directory -path $folder\$root1\BF_Psychology
+new-item -type directory -path $folder\$root1\BH_Aesthetics
+new-item -type directory -path $folder\$root1\BJ_Ethics
+new-item -type directory -path $folder\$root1\BL_Religions_Mythology_Rationalism
+new-item -type directory -path $folder\$root1\BM_Judaism
+new-item -type directory -path $folder\$root1\BP_Islam_Bahaism_Theosophy_etc
+new-item -type directory -path $folder\$root1\BQ_Buddhism
+new-item -type directory -path $folder\$root1\BR_Christianity
+new-item -type directory -path $folder\$root1\BS_The_Bible
+new-item -type directory -path $folder\$root1\BT_Doctrinal_theology
+new-item -type directory -path $folder\$root1\BV_Practical_Theology
+new-item -type directory -path $folder\$root1\BX_Christian_Denominations
+new-item -type directory -path $folder\$root2\C_Auxiliary_Sciences_of_History
+new-item -type directory -path $folder\$root2\CB_History_of_Civilization
+new-item -type directory -path $folder\$root2\CC_Archaeology
+new-item -type directory -path $folder\$root2\CD_Diplomatics_Archives_Seals
+new-item -type directory -path $folder\$root2\CE_Technical_Chronology_Calendar
+new-item -type directory -path $folder\$root2\CJ_Numismatics
+new-item -type directory -path $folder\$root2\CN_Inscriptions_Epigraphy
+new-item -type directory -path $folder\$root2\CR_Heraldry
+new-item -type directory -path $folder\$root2\CS_Genealogy
+new-item -type directory -path $folder\$root2\CT_Biography
+new-item -type directory -path $folder\$root3\D_History_General
+new-item -type directory -path $folder\$root3\DA_Great_Britain
+new-item -type directory -path $folder\$root3\DAW_Central_Europe
+new-item -type directory -path $folder\$root3\DB_Austria_Liechtenstein_Hungary_Czechoslovakia
+new-item -type directory -path $folder\$root3\DC_France_Andorra_Monaco
+new-item -type directory -path $folder\$root3\DD_Germany
+new-item -type directory -path $folder\$root3\DE_Greco_Roman_World
+new-item -type directory -path $folder\$root3\DF_Greece
+new-item -type directory -path $folder\$root3\DG_Italy_Malta
+new-item -type directory -path $folder\$root3\DH_Low_Countries_Benelux_Countries
+new-item -type directory -path $folder\$root3\DJ_Netherlands_Holland
+new-item -type directory -path $folder\$root3\DJK_Eastern_Europe_General
+new-item -type directory -path $folder\$root3\DK_Russia_Soviet_Union_Former_Soviet_Republics_Poland
+new-item -type directory -path $folder\$root3\DL_Northern_Europe_Scandinavia
+new-item -type directory -path $folder\$root3\DP_Spain_Portugal
+new-item -type directory -path $folder\$root3\DQ_Switzerland
+new-item -type directory -path $folder\$root3\DR_Balkan_Peninsula
+new-item -type directory -path $folder\$root3\DS_Asia
+new-item -type directory -path $folder\$root3\DT_Africa
+new-item -type directory -path $folder\$root3\DU_Oceania_South_Seas
+new-item -type directory -path $folder\$root3\DX_Romanies
+new-item -type directory -path $folder\$root4\No_sub_Class
+new-item -type directory -path $folder\$root5\FC_Canadian_History
+new-item -type directory -path $folder\$root6\G_Geography_General_Atlases_Maps
+new-item -type directory -path $folder\$root6\GA_Mathematical_geography_Cartography
+new-item -type directory -path $folder\$root6\GB_Physical_geography
+new-item -type directory -path $folder\$root6\GC_Oceanography
+new-item -type directory -path $folder\$root6\GE_Environmental_Sciences
+new-item -type directory -path $folder\$root6\GF_Human_ecology_Anthropogeography
+new-item -type directory -path $folder\$root6\GN_Anthropology
+new-item -type directory -path $folder\$root6\GR_Folklore
+new-item -type directory -path $folder\$root6\GT_Manners_and_customs_General
+new-item -type directory -path $folder\$root6\GV_Recreation_Leisure
+new-item -type directory -path $folder\$root7\H_Social_sciences_General
+new-item -type directory -path $folder\$root7\HA_Statistics
+new-item -type directory -path $folder\$root7\HB_Economic_theory_Demography
+new-item -type directory -path $folder\$root7\HC_Economic_history_and_conditions
+new-item -type directory -path $folder\$root7\HD_Industries_Land_use_Labor
+new-item -type directory -path $folder\$root7\HE_Transportation_and_communications
+new-item -type directory -path $folder\$root7\HF_Commerce
+new-item -type directory -path $folder\$root7\HG_Finance
+new-item -type directory -path $folder\$root7\HJ_Public_finance
+new-item -type directory -path $folder\$root7\HM_Sociology_General
+new-item -type directory -path $folder\$root7\HN_Social_history_and_conditions_Social_problems_Social_reform
+new-item -type directory -path $folder\$root7\HQ_The_family_Marriage_Women_and_Sexuality
+new-item -type directory -path $folder\$root7\HS_Societies_secret_benevolent_etc
+new-item -type directory -path $folder\$root7\HT_Communities_Classes_Races
+new-item -type directory -path $folder\$root7\HV_Social_pathology_Social_and_public_welfare_Criminology
+new-item -type directory -path $folder\$root7\HX_Socialism_Communism_Anarchism
+new-item -type directory -path $folder\$root8\J_General_legislative_and_executive_papers
+new-item -type directory -path $folder\$root8\JA_Political_science_General
+new-item -type directory -path $folder\$root8\JC_Political_theory
+new-item -type directory -path $folder\$root8\JF_Political_institutions_and_public_administration
+new-item -type directory -path $folder\$root8\JJ_Political_institutions_and_public_administration_North_America
+new-item -type directory -path $folder\$root8\JK_Political_institutions_and_public_administration_United_States
+new-item -type directory -path $folder\$root8\JL_Political_institutions_and_public_administration_Canada_Latin_America_etc
+new-item -type directory -path $folder\$root8\JN_Political_institutions_and_public_administration_Europe
+new-item -type directory -path $folder\$root8\JQ_Political_institutions_and_public_administration_Asia_Africa_Australia_Pacific_Area_etc
+new-item -type directory -path $folder\$root8\JS_Local_government_Municipal_government
+new-item -type directory -path $folder\$root8\JV_Colonies_and_colonization_Emigration_and_immigration_International_migration
+new-item -type directory -path $folder\$root8\JX_International_law_see_JZ_and_KZ_obsolete
+new-item -type directory -path $folder\$root8\JZ_International_relations
+new-item -type directory -path $folder\$root9\K_Law_in_general_Comparative_and_uniform_law_Jurisprudence
+new-item -type directory -path $folder\$root9\KB_Religious_law_in_general_Comparative_religious_law_Jurisprudence
+new-item -type directory -path $folder\$root9\KBM_Jewish_law
+new-item -type directory -path $folder\$root9\KBP_Islamic_law
+new-item -type directory -path $folder\$root9\KBR_History_of_canon_law
+new-item -type directory -path $folder\$root9\KBS_Canon_law_of_Eastern_churches
+new-item -type directory -path $folder\$root9\KBT_Canon_law_of_Eastern_Rite_Churches_in_Communion_with_the_Holy_See_of_Rome
+new-item -type directory -path $folder\$root9\KBU_Law_of_the_Roman_Catholic_Church_The_Holy_See
+new-item -type directory -path $folder\$root9\KD/KDK__United_Kingdom_and_Ireland
+new-item -type directory -path $folder\$root9\KDZ_America_North_America
+new-item -type directory -path $folder\$root9\KE_Canada
+new-item -type directory -path $folder\$root9\KF_United_States
+new-item -type directory -path $folder\$root9\KG_Latin_America_Mexico_and_Central_America_West_Indies_Caribbean_area
+new-item -type directory -path $folder\$root9\KH_South_America
+new-item -type directory -path $folder\$root9\KJ_KKZ_Europe
+new-item -type directory -path $folder\$root9\KL_KWX_Asia_and_Eurasia_Africa_Pacific_Area_and_Antarctica
+new-item -type directory -path $folder\$root9\KU_KUQ_Law_of_Australia_and_New_Zealand
+new-item -type directory -path $folder\$root9\KZ_Law_of_nations
+new-item -type directory -path $folder\$root10\L_Education_General
+new-item -type directory -path $folder\$root10\LA_History_of_education
+new-item -type directory -path $folder\$root10\LB_Theory_and_practice_of_education
+new-item -type directory -path $folder\$root10\LC_Special_aspects_of_education
+new-item -type directory -path $folder\$root10\LD_Individual_institutions_United_States
+new-item -type directory -path $folder\$root10\LE_Individual_institutions_America_except_United_States
+new-item -type directory -path $folder\$root10\LF_Individual_institutions_Europe
+new-item -type directory -path $folder\$root10\LG_Individual_institutions_Asia_Africa_Indian_Ocean_islands_Australia_New_Zealand_Pacific_islands
+new-item -type directory -path $folder\$root10\LH_College_and_school_magazines_and_papers
+new-item -type directory -path $folder\$root10\LJ_Student_fraternities_and_societies_United_States
+new-item -type directory -path $folder\$root10\LT_Textbooks
+new-item -type directory -path $folder\$root11\M_Music
+new-item -type directory -path $folder\$root11\ML_Literature_on_music
+new-item -type directory -path $folder\$root11\MT_Instruction_and_study
+new-item -type directory -path $folder\$root12\NA_Architecture
+new-item -type directory -path $folder\$root12\NB_Sculpture
+new-item -type directory -path $folder\$root12\NC_Drawing_Design_Illustration
+new-item -type directory -path $folder\$root12\ND_Painting
+new-item -type directory -path $folder\$root12\NE_Print_media
+new-item -type directory -path $folder\$root12\NK_Decorative_arts
+new-item -type directory -path $folder\$root12\NX_Arts_in_general
+new-item -type directory -path $folder\$root13\P_Philology_Linguistics
+new-item -type directory -path $folder\$root13\PA_Greek_language_and_literature_Latin_language_and_literature
+new-item -type directory -path $folder\$root13\PB_Modern_languages_Celtic_languages_and_literature
+new-item -type directory -path $folder\$root13\PC_Romanic_languages
+new-item -type directory -path $folder\$root13\PD_Germanic_languages_Scandinavian_languages
+new-item -type directory -path $folder\$root13\PE_English_language
+new-item -type directory -path $folder\$root13\PF_West_Germanic_languages
+new-item -type directory -path $folder\$root13\PG_Slavic_languages_and_literature_Baltic_languages_Albanian_language
+new-item -type directory -path $folder\$root13\PH_Uralic_languages_Basque_language
+new-item -type directory -path $folder\$root13\PJ_Oriental_languages_and_literatures
+new-item -type directory -path $folder\$root13\PK_Indo_Iranian_languages_and_literature
+new-item -type directory -path $folder\$root13\PL_Languages_and_literature_of_Eastern_Asia_Africa_Oceania
+new-item -type directory -path $folder\$root13\PM_Hyperborean_Native_American_and_artificial_languages
+new-item -type directory -path $folder\$root13\PN_Literature_General
+new-item -type directory -path $folder\$root13\PQ_French_literature_Italian_literature_Spanish_literature_Portuguese_literature
+new-item -type directory -path $folder\$root13\PR_English_literature
+new-item -type directory -path $folder\$root13\PS_American_literature
+new-item -type directory -path $folder\$root13\PT_Literature_German_Dutch_Flemish_Afrikaans_Scandinavian_Norse_Icelandic_and_Norwegian_Modern_Icelandic_Faroese_Danish_Norwegian_Swedish
+new-item -type directory -path $folder\$root13\PZ_Fiction_and_juvenile_belles_lettres
+new-item -type directory -path $folder\$root14\Q_Science_General
+new-item -type directory -path $folder\$root14\QA_Mathematics
+new-item -type directory -path $folder\$root14\QB_Astronomy
+new-item -type directory -path $folder\$root14\QC_Physics
+new-item -type directory -path $folder\$root14\QD_Chemistry
+new-item -type directory -path $folder\$root14\QE_Geology
+new-item -type directory -path $folder\$root14\QH_Natural_history_Biology
+new-item -type directory -path $folder\$root14\QK_Botany
+new-item -type directory -path $folder\$root14\QL_Zoology
+new-item -type directory -path $folder\$root14\QM_Human_anatomy
+new-item -type directory -path $folder\$root14\QP_Physiology
+new-item -type directory -path $folder\$root14\QR_Microbiology
+new-item -type directory -path $folder\$root15\R_Medicine_General
+new-item -type directory -path $folder\$root15\RA_Public_aspects_of_medicine
+new-item -type directory -path $folder\$root15\RB_Pathology
+new-item -type directory -path $folder\$root15\RC_Internal_medicine
+new-item -type directory -path $folder\$root15\RD_Surgery
+new-item -type directory -path $folder\$root15\RE_Ophthalmology
+new-item -type directory -path $folder\$root15\RF_Otorhinolaryngology
+new-item -type directory -path $folder\$root15\RG_Gynecology_and_Obstetrics
+new-item -type directory -path $folder\$root15\RJ_Pediatrics
+new-item -type directory -path $folder\$root15\RK_Dentistry
+new-item -type directory -path $folder\$root15\RL_Dermatology
+new-item -type directory -path $folder\$root15\RM_Therapeutics_Pharmacology
+new-item -type directory -path $folder\$root15\RS_Pharmacy_and_materia_medica
+new-item -type directory -path $folder\$root15\RT_Nursing
+new-item -type directory -path $folder\$root15\RV_Botanic_Thomsonian_and_Eclectic_medicine
+new-item -type directory -path $folder\$root15\RX_Homeopathy
+new-item -type directory -path $folder\$root15\RZ_Other_systems_of_medicine
+new-item -type directory -path $folder\$root16\S_Agriculture_General
+new-item -type directory -path $folder\$root16\SB_Horticulture_Plant_propagation_Plant_breeding
+new-item -type directory -path $folder\$root16\SD_Forestry_Arboriculture_Silviculture
+new-item -type directory -path $folder\$root16\SF_Animal_husbandry_Animal_science
+new-item -type directory -path $folder\$root16\SH_Aquaculture_Fisheries_Angling
+new-item -type directory -path $folder\$root16\SK_Hunting
+new-item -type directory -path $folder\$root17\T_Technology_General
+new-item -type directory -path $folder\$root17\TA_Engineering_Civil_engineering_General
+new-item -type directory -path $folder\$root17\TC_Hydraulic_engineering_Ocean_engineering
+new-item -type directory -path $folder\$root17\TD_Environmental_technology_Sanitary_engineering
+new-item -type directory -path $folder\$root17\TE_Highway_engineering_Roads_and_pavements
+new-item -type directory -path $folder\$root17\TF_Railroad_engineering_and_operation
+new-item -type directory -path $folder\$root17\TG_Bridges
+new-item -type directory -path $folder\$root17\TH_Building_construction
+new-item -type directory -path $folder\$root17\TJ_Mechanical_engineering_and_machinery
+new-item -type directory -path $folder\$root17\TK_Electrical_engineering_Electronics_Nuclear_engineering
+new-item -type directory -path $folder\$root17\TL_Motor_vehicles_Aeronautics_Astronautics
+new-item -type directory -path $folder\$root17\TN_Mining_engineering_Metallurgy
+new-item -type directory -path $folder\$root17\TP_Chemical_technology
+new-item -type directory -path $folder\$root17\TR_Photography
+new-item -type directory -path $folder\$root17\TS_Manufacturing_engineering_Mass_production
+new-item -type directory -path $folder\$root17\TT_Handicrafts_Arts_and_crafts
+new-item -type directory -path $folder\$root17\TX_Home_economics
+new-item -type directory -path $folder\$root18\U_Military_science_General
+new-item -type directory -path $folder\$root18\UA_Armies_Organization_distribution_military_situation
+new-item -type directory -path $folder\$root18\UB_Military_administration
+new-item -type directory -path $folder\$root18\UC_Military_maintenance_and_transportation
+new-item -type directory -path $folder\$root18\UD_Infantry
+new-item -type directory -path $folder\$root18\UE_Cavalry_Armor
+new-item -type directory -path $folder\$root18\UF_Artillery
+new-item -type directory -path $folder\$root18\UG_Military_engineering_Air_forces
+new-item -type directory -path $folder\$root18\UH_Other_military_services
+new-item -type directory -path $folder\$root19\V_Naval_science_General
+new-item -type directory -path $folder\$root19\VA_Navies_Organization_distribution_naval_situation
+new-item -type directory -path $folder\$root19\VB_Naval_administration
+new-item -type directory -path $folder\$root19\VC_Naval_maintenance
+new-item -type directory -path $folder\$root19\VD_Naval_seamen
+new-item -type directory -path $folder\$root19\VE_Marines
+new-item -type directory -path $folder\$root19\VF_Naval_ordnance
+new-item -type directory -path $folder\$root19\VG_Minor_services_of_navies
+new-item -type directory -path $folder\$root19\VK_Navigation_Merchant_marine
+new-item -type directory -path $folder\$root19\VM_Naval_architecture_Shipbuilding_Marine_engineering
+new-item -type directory -path $folder\$root20\Z_Books_General_Writing_Paleography_Book_industries_and_trade_Libraries_Bibliography
+new-item -type directory -path $folder\$root20\ZA_Information_resources_materials
